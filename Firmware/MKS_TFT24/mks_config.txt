@@ -58,12 +58,12 @@
 #########  Filament Change Function  ##############################
 
 #the speed to extrude filament(mm/min)
->cfg_filament_load_speed:1200
+>cfg_filament_load_speed:1500
 #the lenght to extrude filament (mm)
 >cfg_filament_load_length:760
 
 #the speed to retract filament(mm/min)
->cfg_filament_unload_speed:1200
+>cfg_filament_unload_speed:5000
 #the lenght to retract filament(mm)
 >cfg_filament_unload_length:790
 
